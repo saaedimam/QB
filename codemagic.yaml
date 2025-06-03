@@ -19,7 +19,7 @@ workflows:
     publishing:
       email:
         recipients:
-          - your-email@example.com
+          - sayedimam.fahim@gmail.com
         notify:
           success: true
           failure: true
