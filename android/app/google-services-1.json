@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "834087833567",
+    "project_id": "quickbill-51a73",
+    "storage_bucket": "quickbill-51a73.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834087833567:android:311f341e70632d19203e6a",
+        "android_client_info": {
+          "package_name": "com.qbill.QuickBill"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834087833567-7ekui1arfc51gn7fls0s6o8mdqo9e9ss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdlPtCqn0z2y4_WyqFwegenRqkYhOWyBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834087833567-7ekui1arfc51gn7fls0s6o8mdqo9e9ss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834087833567:android:5ed525462ed59631203e6a",
+        "android_client_info": {
+          "package_name": "com.quickbill.con"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834087833567-7ekui1arfc51gn7fls0s6o8mdqo9e9ss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdlPtCqn0z2y4_WyqFwegenRqkYhOWyBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834087833567-7ekui1arfc51gn7fls0s6o8mdqo9e9ss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
