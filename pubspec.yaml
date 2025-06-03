@@ -1,7 +1,7 @@
 name: quickbill
 description: Your Pocket Accountant
-version: 1.0.0+1
 publish_to: 'none'
+version: 1.0.0+1
 
 environment:
   sdk: ">=2.19.0 <3.0.0"
@@ -9,24 +9,12 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
-  # Firebase core services
-  firebase_core: ^2.27.0
-  firebase_auth: ^4.17.4
-  cloud_firestore: ^4.15.4
-
-  # File and document handling
+  firebase_core: ^2.0.0
+  firebase_auth: ^4.0.0
+  cloud_firestore: ^4.0.0
   pdf: ^3.10.4
-  path_provider: ^2.1.2
-  csv: ^5.0.2
-
-  # Localization support
-  flutter_localizations:
-    sdk: flutter
-
-  # UI utilities (optional)
-  intl: ^0.19.0
-  cupertino_icons: ^1.0.6
+  path_provider: ^2.0.14
+  csv: ^5.0.0
 
 dev_dependencies:
   flutter_test:
@@ -34,6 +22,3 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
-
-  assets:
-    - assets/
