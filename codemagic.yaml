@@ -3,8 +3,6 @@ workflows:
     name: QuickBill Android APK Build
     environment:
       flutter: stable
-      android_signing:
-        - keystore_reference
       vars:
         PACKAGE_NAME: "com.qb.quickbill"
     scripts:
