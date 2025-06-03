@@ -17,7 +17,7 @@ workflows:
     publishing:
       email:
         recipients:
-          - emu.imam.ei@gmail.com
+          - sayedimam.fahim@gmail.com
         notify:
           success: true
           failure: true
