@@ -16,8 +16,9 @@ workflows:
       - build/app/outputs/flutter-apk/app-release.apk
     publishing:
       email:
-        recipients:
-          - sayedimam.fahim@gmail.com
+      - emu.imam.ei@gmail.com
+      recipients:
+      - emu.imam.ei@gmail.com
         notify:
           success: true
           failure: true
